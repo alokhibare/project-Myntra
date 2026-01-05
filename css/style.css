@@ -316,6 +316,7 @@ sup {
     border-right: 0px solid #282c3f;
     border-bottom: 1px solid #282c3f;
     border-left: 1px solid #282c3f;
+    cursor: pointer;
 }
 .search_input {
     color: #696e79;
